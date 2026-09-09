@@ -16,7 +16,7 @@ The system enables EEG-driven communication through a unified dashboard architec
 ## Technologies Used
 - Frontend: React / React Native (Web)
 - Backend: Python (EEG processing and APIs)
-- Database: MySQL
+- Database: SQLite
 - EEG Device: Emotiv EPOC X
 
 ## Project Context
